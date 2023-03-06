@@ -11,7 +11,7 @@ require (
 	github.com/andreyvit/diff v0.0.0-20170406064948-c7f18ee00883
 	github.com/asaskevich/govalidator v0.0.0-20200428143746-21a406dcc535 // indirect
 	github.com/attic-labs/kingpin v2.2.7-0.20180312050558-442efcfac769+incompatible
-	github.com/aws/aws-sdk-go v1.32.6
+	github.com/aws/aws-sdk-go v1.34.28
 	github.com/bcicen/jstream v1.0.0
 	github.com/cenkalti/backoff v2.2.1+incompatible
 	github.com/codahale/blake2 v0.0.0-20150924215134-8d10d0420cbf
@@ -61,7 +61,7 @@ require (
 	github.com/tidwall/pretty v1.0.1 // indirect
 	github.com/uber/jaeger-client-go v2.25.0+incompatible
 	github.com/uber/jaeger-lib v2.4.0+incompatible // indirect
-	go.mongodb.org/mongo-driver v1.3.4 // indirect
+	go.mongodb.org/mongo-driver v1.5.1 // indirect
 	go.uber.org/zap v1.15.0
 	golang.org/x/crypto v0.0.0-20200622213623-75b288015ac9
 	golang.org/x/net v0.0.0-20200904194848-62affa334b73
